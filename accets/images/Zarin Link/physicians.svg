@@ -1,0 +1,11 @@
+<svg id="physicians" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_9604" data-name="Group 9604">
+    <rect id="Rectangle_6538" data-name="Rectangle 6538" width="40" height="40" fill="none"/>
+  </g>
+  <g id="Group_9606" data-name="Group 9606" transform="translate(4 4)">
+    <g id="Group_9605" data-name="Group 9605">
+      <path id="Path_14777" data-name="Path 14777" d="M31.136,8.475H24.661V5.237A3.247,3.247,0,0,0,21.424,2H14.949a3.247,3.247,0,0,0-3.237,3.237V8.475H5.237A3.247,3.247,0,0,0,2,11.712V31.136a3.247,3.247,0,0,0,3.237,3.237h25.9a3.247,3.247,0,0,0,3.237-3.237V11.712A3.247,3.247,0,0,0,31.136,8.475ZM14.949,5.237h6.475V8.475H14.949Zm16.186,25.9H5.237V11.712h25.9Z" transform="translate(-2 -2)" fill="#28457b"/>
+      <path id="Path_14778" data-name="Path 14778" d="M14.463,10H11.878v3.878H8v2.585h3.878V20.34h2.585V16.463H18.34V13.878H14.463Z" transform="translate(3.315 3.924)" fill="#28457b"/>
+    </g>
+  </g>
+</svg>

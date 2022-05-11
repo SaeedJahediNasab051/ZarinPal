@@ -1,0 +1,7 @@
+<svg id="Group_14" data-name="Group 14" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 60 60">
+  <rect id="Rectangle_7_Copy" data-name="Rectangle 7 Copy" width="60" height="60" rx="16" fill="#eff4fe"/>
+  <g id="widgets-24px" transform="translate(10 10)">
+    <path id="Path" d="M0,0H40V40H0Z" fill="none"/>
+    <path id="Shape" d="M30,32.185H16.667V18.851H30V32.184h0ZM20,28.851h6.666V22.185H20Zm-6.668,3.334H0V18.851H13.333V32.184h0Zm-10-3.334H10V22.185H3.334Zm19.432-10L13.333,9.418,22.766,0,32.2,9.418l-9.436,9.433ZM18.052,9.435l4.713,4.713,4.719-4.713L22.766,4.717Zm-4.72,6.083H0V2.184H13.333V15.517h0Zm-10-3.334H10V5.518H3.334Z" transform="translate(5 2.817)" fill="#28457b"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="discount-code" transform="translate(-13912 3861)">
+    <rect id="Rectangle_7_Copy_2" data-name="Rectangle 7 Copy 2" width="60" height="60" rx="17" transform="translate(13912 -3861)" fill="#eff4fe"/>
+    <g id="discount-code-2" data-name="discount-code" transform="translate(13922 -3851)">
+      <path id="Path_1287" data-name="Path 1287" d="M0,0H40V40H0Z" fill="none"/>
+      <path id="Path_1288" data-name="Path 1288" d="M35.333,14V7.333A3.332,3.332,0,0,0,32,4H5.333A3.318,3.318,0,0,0,2.017,7.333V14A3.333,3.333,0,0,1,2,20.667v6.667a3.343,3.343,0,0,0,3.333,3.333H32a3.343,3.343,0,0,0,3.333-3.333V20.667a3.333,3.333,0,1,1,0-6.667ZM32,11.567A6.655,6.655,0,0,0,32,23.1v4.233H5.333V23.1a6.689,6.689,0,0,0,3.333-5.767A6.653,6.653,0,0,0,5.35,11.567L5.333,7.333H32ZM17,22.333h3.333v3.333H17Zm0-6.667h3.333V19H17ZM17,9h3.333v3.333H17Z" transform="translate(1.333 2.667)" fill="#28457b"/>
+    </g>
+  </g>
+</svg>
